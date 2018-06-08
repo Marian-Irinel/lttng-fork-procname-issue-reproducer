@@ -1,1 +1,6 @@
-# lttng-fork-procname-issue-reproducer
+
+```
+Run :
+$ make
+$ ./test.sh
+```
